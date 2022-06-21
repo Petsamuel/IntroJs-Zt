@@ -38,6 +38,4 @@ function Operations(a, b) {
 
 }
 
-
-
 Operations(5, 5);
