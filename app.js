@@ -19,6 +19,6 @@ console.log('Country:', Country('Nigeria'));
 
 //logs the result on document, 
 //use strictly with index.html !important
-document.write('Name:', Name('Peter Samuel'), '\n')
+document.write('Name:', Name('Peter Samuel'), '\n');
 document.write('Heights:', Heights(4.45), 'ft', '\n');
 document.write('Country:', Country('Nigeria'), '\n');
