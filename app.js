@@ -22,3 +22,5 @@ console.log('Country:', Country('Nigeria'));
 document.write('Name:', Name('Peter Samuel'), '\n');
 document.write('Heights:', Heights(4.45), 'ft', '\n');
 document.write('Country:', Country('Nigeria'), '\n');
+document.querySelector('.name').innerHTML = 'Peter Samuel'
+document.querySelector('.info').innerHTML = `heights:4.45 \n country: Nigeria`
